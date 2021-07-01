@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mochawesome": "6.1.1"
+    "mochawesome": "6.1.1",
+    "nodemon": "^2.0.9"
   },
   "devDependencies": {
     "chai": "^4.2.0",
